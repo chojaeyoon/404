@@ -112,3 +112,12 @@
 ### sv_Reports 폴더
 ##### Sweetviz library를 활용한 EDA와 시각화
 ![image](https://user-images.githubusercontent.com/76254564/108596263-346a4d00-73c7-11eb-8c7d-92152acb2f99.png)
+
+
+### Stacking
+##### stacking 기법을 사용하여 LB를 높이려고 시도
+##### stacking 원리
+![image](https://user-images.githubusercontent.com/76254564/108596334-b9edfd00-73c7-11eb-913f-0154c7a61edb.png)
+
+##### LGBM + Catboost + XGBoost 값을 trainset, testset에 3 columns로 추가하여 이 dataset을 다시 train, predict
+![image](https://user-images.githubusercontent.com/76254564/108596377-fae61180-73c7-11eb-9ace-ef83c3cf84ff.png)
