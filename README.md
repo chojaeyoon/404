@@ -109,6 +109,6 @@
 ### references 폴더
 ##### Dacon에 공유되었던 추가 파생변수들, 본 팀의 코드에 맞게 변형, 새로운 변수만 가져오는 과정
 
-### sv_Reports
+### sv_Reports 폴더
 ##### Sweetviz library를 활용한 EDA와 시각화
 ![image](https://user-images.githubusercontent.com/76254564/108596263-346a4d00-73c7-11eb-8c7d-92152acb2f99.png)
